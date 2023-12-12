@@ -1,0 +1,123 @@
+
+/* Estilos para la barra en la parte derecha */
+
+.situacionesGridTitle{
+  display: flex;
+  flex-direction: row;
+}
+.situacionesGrid{
+  display: flex;
+  flex-direction: row;
+}
+/* Estilos para los botones */
+
+
+.edit-button {
+  margin-left: 15px
+}
+
+.add-phrase-button,
+.edit-button,
+.download-button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.edit-button:hover,
+.download-button:hover {
+  background-color: #0056b3;
+}
+.button-delete {
+  background-color: #f14668;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  padding: 2px 10px;
+  border-top-right-radius: 10px;
+  
+
+}
+
+.button-delete:hover {
+  background-color: #ee2a4a;
+}
+/* Ajuste para evitar que los botones tapen la barra de desplazamiento */
+.text-side {
+  position: relative;
+  padding-right: 140px; /* Ancho de la barra + un margen adicional */
+  overflow-y: scroll;
+}
+
+.Curatela1 {
+  margin-bottom: 10px;
+}
+.SectionTitle {
+    margin-bottom: 10px; /* Puedes ajustar el valor según el espacio deseado */
+    margin-top: 30px; /* Puedes ajustar el valor según el espacio deseado */
+  }
+li {
+    border-radius: 10px;
+    margin-bottom: 10px; /* Cambia el valor según lo que necesites */
+    line-height: 2; /* Cambia el valor para ajustar el espaciado entre líneas */
+    padding-right: 2px;
+  }
+.Titulo strong {
+    text-decoration: none;
+}
+br {
+    line-height: 0.5; /* Puedes ajustar este valor según tus preferencias */
+  }
+  .page {
+    page-break-after: always;
+  }
+  
+  /* Añade estilos específicos para cada página si lo deseas */
+
+  li {
+    margin-bottom: 20px; /* Cambia el valor según lo que necesites */
+  } 
+
+  strong {
+    text-decoration: underline; /* Subrayado */
+  }
+
+
+  .pdf-reader {
+    display: flex; /* Use flexbox to create a row layout */
+  }
+  
+  .pdf-side {
+    flex: 1; /* The left side takes 1 part of the available space */
+    padding: 16px;
+    background-color: #f0f0f0;
+    overflow: auto; /* Enable scrolling if the content overflows */
+  }
+  
+  .text-side {
+    flex: 1; /* The right side takes 1 part of the available space */
+    padding: 16px;
+    background-color: #ffffff;
+    overflow: auto; /* Enable scrolling if the content overflows */
+  }
+  .images-div {
+    
+    float: right;
+    /* Add any other styling you need */
+  }
+  .options-panel {
+    border: 1px solid #ccc;
+    background-color: white;
+    /* position: absolute; */
+    top: 40px;
+    left: 0;
+    width: 200px;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  /* @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";  */
+

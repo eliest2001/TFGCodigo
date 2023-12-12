@@ -1,0 +1,100 @@
+
+{
+"1": {
+"name": "Armas",
+"template": [
+"El juez decide que no puedes tener ni utilizar armas de fuego.",
+"No puedes utilizar armas."
+],
+"colorTag": "#FFD9D9"
+},
+"2": {
+"name": "Testamento",
+"template": [
+"Puedes hacer testamento, pero con condiciones.",
+"Si decides hacer testamento, tienes que hacerlo ante un notario."
+],
+"colorTag": "#FFE8CC"
+},
+"3": {
+"name": "Vehiculos",
+"template": [
+"El juez decide que no puedes conducir vehículos a motor, como el coche o la moto.",
+"No puedes utilizar vehículos."
+],
+"colorTag": "#FFFFCC"
+},
+"4": {
+"name": "Estado Civil",
+"template": [
+"También necesitas apoyo para cambiar tu estado civil."
+],
+"colorTag": "#D1FFD1"
+},
+"5": {
+"name": "Salud",
+"template": [
+"Necesitas un curador para decidir sobre tu salud."
+],
+"colorTag": "#D1E5FF"
+},
+"6": {
+"name": "Tratamiento",
+"template": [
+"Decidir sobre los tratamientos médicos que necesitas o cómo tomar los medicamentos.",
+"Necesitas apoyo de tu curador para tomar decisiones sobre tu salud y para el tratamiento de tu enfermedad.",
+"Tu curador te ayudará a cuidar tu salud y a que sigas tu tratamiento médico.",
+"Decidir sobre los tratamientos médicos, psiquiátricos o de cirugía que necesitas."
+],
+"colorTag": "#E6CCFF"
+},
+"8": {
+"name": "Elecciones",
+"template": [
+"Puedes votar en persona y por correo en las elecciones."
+],
+"colorTag": "#E5B987"
+},
+"9": {
+"name": "Residencia",
+"template": [
+"Decidir dónde quieres vivir.",
+"Necesitas apoyo de tu curador para elegir en qué lugar vas a vivir."
+],
+"colorTag": "#C2F0F0"
+},
+"10": {
+"name": "Centro",
+"template": [
+"Tu tutor puede decidir que estés en un Centro en el que recibirás todos los cuidados que necesitas."
+],
+"colorTag": "#B2E5D6"
+},
+"11": {
+"name": "Patrimonio",
+"template": [
+"Realizar cualquier actividad con tu patrimonio.",
+"Tu tutor/a te ayudará a decidir qué hacer con tu dinero y con tus bienes.",
+"Necesitas apoyo de tu curador para tomar decisiones económicas sobre tus bienes."
+],
+"colorTag": "#CBC9FF"
+},
+"12": {
+"name": "Dinero",
+"template": [
+"Tu tutor/a te dará dinero de bolsillo para pequeños gastos personales.",
+"Puedes tener algo de dinero para los gastos de tu día a día.",
+"El juez decide que puedes usar pequeñas cantidades de dinero a la semana para tus gastos del día a día."
+],
+"colorTag": "#E1F7D5"
+},
+"13": {
+"name": "Poderes",
+"template": [
+"Firmar contratos o negocios jurídicos.",
+"Autorizar a otras personas para actuar en tu nombre.",
+"Iniciar acciones judiciales."
+],
+"colorTag": "#E0E0E0"
+}
+}
